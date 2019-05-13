@@ -1,0 +1,20 @@
+{
+  "url": "https://web2.0calc.com",
+  "browser": "chrome",
+
+  "browser_executables": "../../../Resources",
+  "os_version": "10",
+  "browser_version": "74.0",
+  "browserstack.local": "false",
+  "browserstack.selenium_version": "3.5.2",
+  "browserstack.user": "monalijangale2",
+  "browserstack.key": "bGExjEAzoFky7ooHyq2D",
+  "Uri": "http://hub-cloud.browserstack.com/wd/hub/",
+  "Mode": "cloud"
+
+
+
+
+
+
+}
