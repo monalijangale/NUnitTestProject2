@@ -1,1 +1,10 @@
 Connect it to github
+
+Exercise:
+Insert the missing statement to get all the columns from the Customers table.
+
+ * FROM Customers;
+
+Start the Exercise
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
