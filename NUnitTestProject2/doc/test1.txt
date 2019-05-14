@@ -1,12 +1,7 @@
 Connect it to github
 
 
-Exercise:
-Insert the missing statement to get all the columns from the Customers table.
 
- * FROM Customers;
-
-Start the Exercise
 
 
 SQL is a standard language for storing, manipulating and retrieving data in databases.
